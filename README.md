@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aiden
 - 👀 I’m interested in Web Dev, Python, GO, and Start-ups.
-- 🌱 I’m currently learning Rust and OCaml.
+- 🌱 I’m currently learning OCaml and TypeScript.
 - 📚 I'm familiar with Python, Golang, HTML, CSS, and some JS.
 
 <!---
