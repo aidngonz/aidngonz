@@ -3,7 +3,5 @@
 - 🌱 I’m currently learning Java, React, and HTMX.
 - 📚 I'm familiar with Python, Golang, Svelte, HTML, CSS, and JS.
 
-<!---
-aidngonz/aidngonz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+`There is only one thing more painful than learning from experience and that is not learning from experience.`
+-- Archibald McLeish
